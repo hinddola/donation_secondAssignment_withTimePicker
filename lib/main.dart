@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'items_count/items_count_screen.dart';
+import 'map_screen/map_screen.dart';
 
 void main() {
   runApp(const MyApp());
